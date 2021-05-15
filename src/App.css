@@ -7,7 +7,7 @@ body {
   grid-template-columns: 20% 80%;
 }
 .header {
-  padding: 1rem 7rem;
+  padding: 1rem 3rem;
   color: #dc2626;
 }
 
@@ -19,7 +19,7 @@ input {
   height: 2rem;
   border-radius: 5px;
   padding: 5px 10px;
-  width: 75%;
+  width: 85%;
   font-size: large;
   color: white;
   background-color: #4b5563;
@@ -80,6 +80,6 @@ input {
     padding: 5px 10px;
     width: 50%;
     position: absolute;
-    right: 7px;
+    right: 4px;
   }
 }
