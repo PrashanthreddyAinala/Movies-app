@@ -27,7 +27,7 @@ function MoviesList() {
             <div className="grid">
                 <h1 className="header">MyMovies</h1>
                 <form onSubmit={handleSubmit}>
-                    <input type="text" value={inputSearch} placeholder="search" onChange={e=>setInputSearch(e.target.value)}/>
+                    <input type="text" value={inputSearch} placeholder="Find Movies" onChange={e=>setInputSearch(e.target.value)}/>
                 </form>
             </div>
             <div className="container">
